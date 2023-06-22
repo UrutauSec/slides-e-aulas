@@ -1,4 +1,4 @@
-# Introdução a Redes 1
+# Introdução à Redes 1
 Basicamente nosso curso introdutrório ao mundo de redes.
 
 ## Aula 1  
